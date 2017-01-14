@@ -3,6 +3,7 @@ set nu
 set nowrap
 set noswapfile
 set relativenumber
+
 syntax enable
 filetype plugin on
 

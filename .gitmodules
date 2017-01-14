@@ -1,11 +1,3 @@
-[submodule "extern/cl-messagepack"]
-    path = extern/cl-messagepack
-    ignore = dirty
-
-[submodule "extern/cl-messagepack-rpc"]
-    path = extern/cl-messagepack-rpc
-    ignore = dirty
-
-[submodule "extern/cl-neovim"]
-    path = extern/cl-neovim
+[submodule "extern/mpack"]
+    path = extern/mpack
     ignore = dirty
