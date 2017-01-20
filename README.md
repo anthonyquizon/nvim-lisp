@@ -1,4 +1,4 @@
-# Li
+# NVim Lisp
 Toolchain?
 External programs that embed neovim?
 
